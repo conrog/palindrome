@@ -4,7 +4,7 @@ This project is the solution for the JavaScript Palindrome Checker challange whi
 
 A _palindrome_ is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
 
-The solution to the function returns the boolean value true if a given string is a palindrome else it will return false.
+The given function returns the boolean value true if a given string is a palindrome else it will return false.
 
 # Technology Used
 
